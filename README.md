@@ -26,10 +26,11 @@ is a viable method for improving neural networks for computer vision.  -Going De
 
 * The Brain is sparsely connected(not fully connected)
 * dense calculation but sparse network
-![](http://images.slideplayer.com/13/3906449/slides/slide_5.jpg)
+
 ![](https://hackathonprojects.files.wordpress.com/2016/09/inception_implement.png?w=649&h=337)
 
 **1x1 convolution**
+
 * 1x1 convolution leads to dimension reductionality!!
 ![](https://i.ytimg.com/vi/rWbz33rMfMQ/maxresdefault.jpg)
 
