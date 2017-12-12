@@ -1,4 +1,6 @@
 # MethodsofTrainingConvolutionNeuralNetwork
+
+Machine Learning CSE33100 Term Project
 Efficient Methods of Training Convolution Neural Network
 
 ## about
